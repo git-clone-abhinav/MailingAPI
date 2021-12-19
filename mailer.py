@@ -16,7 +16,7 @@ def mail(uid,pwd,tolist,sub,body):
         mails = open(f"{lists}{tolist}.csv","r")
         mail_to = mails.read()
         mail_to = mail_to.split(',')
-        print(mail_to)
+        #print(mail_to)
         mails.close()
         for i in mail_to:
             msg = EmailMessage()
