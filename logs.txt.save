@@ -1,0 +1,60 @@
+Dec 18 21:53:14 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:53:54 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:55:02 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:56:01 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:56:03 2021 - Mail Sending Error 'str' object does not support item assignment 
+Sat Dec 18 21:57:55 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:57:58 2021 - Mail Sending Error 'str' object does not support item assignment 
+Sat Dec 18 21:58:54 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:58:57 2021 - Mail Sending Error 'str' object does not support item assignment 
+Sat Dec 18 21:59:32 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 21:59:35 2021 - Mail Sending Error [Errno 2] No such file or directory: 'NonetestMails.csv' 
+Sat Dec 18 22:01:08 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:01:11 2021 - Mail Sending Error [Errno 2] No such file or directory: 'NonetestMails.csv' 
+Sat Dec 18 22:01:57 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:01:59 2021 - Mail Sending Error [Errno 2] No such file or directory: 'NonetestMails.csv' 
+Sat Dec 18 22:02:40 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:02:42 2021 - Mail Sending Error [Errno 2] No such file or directory: 'NonetestMails.csv' 
+Sat Dec 18 22:03:37 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:03:39 2021 - Mail Sending Error [Errno 2] No such file or directory: 'NonetestMails.csv' 
+Sat Dec 18 22:04:07 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:04:21 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:04:27 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: Subject: test
+From: abhinav@pichavaram.in
+To: abhi.anu003@gmail.com
+
+)
+Sat Dec 18 22:04:32 2021 - Mail Sending Error There may be at most 1 To headers in a message 
+Sat Dec 18 22:04:42 2021 - Mail Sending Error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 
+Sat Dec 18 22:09:24 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:09:26 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:10:31 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:10:32 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:13:17 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:13:19 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:13:27 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:13:27 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:14:27 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:14:29 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:17:07 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:17:09 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:18:10 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:18:12 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:18:54 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:18:56 2021 - Mail Sending Error maximum recursion depth exceeded while calling a Python object 
+Sat Dec 18 22:19:38 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:19:39 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sat Dec 18 22:19:44 2021 - Mail Sending Error There may be at most 1 To headers in a message 
+Sat Dec 18 22:21:54 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:21:57 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sat Dec 18 22:22:02 2021 - Mail sent to 
+21f1002369@student.onlinedegree.iitm.ac.in, Sub: test, Body: test)
+Sat Dec 18 22:23:28 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:23:30 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sat Dec 18 22:23:35 2021 - Mail sent to 21f1002369@student.onlinedegree.iitm.ac.in, Sub: test, Body: test)
+Sat Dec 18 22:36:45 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sat Dec 18 22:36:48 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sat Dec 18 22:36:53 2021 - Mail sent to 21f1002369@student.onlinedegree.iitm.ac.in, Sub: test, Body: test)
+Sun Dec 19 14:26:00 2021 - abhinav@pichavaram.in - password_abhinav - testMails - test - test
+Sun Dec 19 14:26:03 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sun Dec 19 14:26:09 2021 - Mail sent to 21f1002369@student.onlinedegree.iitm.ac.in, Sub: test, Body: test)

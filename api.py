@@ -35,7 +35,7 @@ def send_mail():
    pwd = request.args.get('pwd')
    tolist = request.args.get('tolist')
    sub = request.args.get('sub')
-   msg = request.args.get('msg')
+   msg = request.args.get('body')
    logger.log_it(f"{uid}  - {tolist} - {sub} - {msg}")
    mailer.mail(uid,pwd,tolist,sub,msg)
    return "done"

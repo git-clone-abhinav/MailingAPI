@@ -1,0 +1,30 @@
+Sun Dec 19 14:38:27 2021 - abhinav@pichavaram.in  - testMails - test - test
+Sun Dec 19 14:38:33 2021 - Mail sent to abhi.anu003@gmail.com, Sub: test, Body: test)
+Sun Dec 19 14:38:39 2021 - Mail sent to 21f1002369@student.onlinedegree.iitm.ac.in, Sub: test, Body: test)
+Mon Dec 20 07:49:09 2021 - abhinav@pichavaram.in  - undefined - tests - None
+Mon Dec 20 07:49:13 2021 - Mail Sending Error [Errno 2] No such file or directory: '/home/abhinav/MailingAPI/undefined.csv' 
+Mon Dec 20 07:49:22 2021 - abhinav@pichavaram.in  - undefined - tests - None
+Mon Dec 20 07:49:24 2021 - Mail Sending Error [Errno 2] No such file or directory: '/home/abhinav/MailingAPI/undefined.csv' 
+Mon Dec 20 07:51:21 2021 - akshay@pichavaram.in  - undefined - a - None
+Mon Dec 20 07:51:24 2021 - Mail Sending Error [Errno 2] No such file or directory: '/home/abhinav/MailingAPI/undefined.csv' 
+Mon Dec 20 07:58:06 2021 - abhinav@pichavaram.in  - undefined - salkdskldjjas - None
+Mon Dec 20 07:58:09 2021 - Mail Sending Error [Errno 2] No such file or directory: '/home/abhinav/MailingAPI/undefined.csv' 
+Mon Dec 20 08:41:17 2021 - akshay@pichavaram.in  - testMails - test1 - None
+Mon Dec 20 08:41:20 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 08:49:58 2021 - akshay@pichavaram.in  - testMails - test1 - None
+Mon Dec 20 08:50:01 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 08:54:37 2021 - akshay@pichavaram.in  - testMails - test1 - None
+Mon Dec 20 08:54:40 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 08:59:35 2021 - akshay@pichavaram.in  - testMails - as - None
+Mon Dec 20 08:59:39 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 09:28:33 2021 - abhinav@pichavaram.in  - testMails - asdsaddasdsadsd - None
+Mon Dec 20 09:28:36 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 09:35:35 2021 - abhinav@pichavaram.in  - testMails - asdsaddasdsadsd - None
+Mon Dec 20 09:35:38 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 09:36:41 2021 - abhinav@pichavaram.in  - testMails - asdsaddasdsadsd - None
+Mon Dec 20 09:36:44 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 09:37:36 2021 - abhinav@pichavaram.in  - testMails - asdsaddasdsadsd - None
+Mon Dec 20 09:37:39 2021 - Mail Sending Error 'builtins.NoneType' 
+Mon Dec 20 09:41:05 2021 - abhinav@pichavaram.in  - testMails - asdsaddasdsadsd - dasdsadasdasdasdsadsadasd
+Mon Dec 20 09:41:09 2021 - Mail sent to abhi.anu003@gmail.com, Sub: asdsaddasdsadsd, Body: dasdsadasdasdasdsadsadasd)
+Mon Dec 20 09:41:15 2021 - Mail sent to 21f1002369@student.onlinedegree.iitm.ac.in, Sub: asdsaddasdsadsd, Body: dasdsadasdasdasdsadsadasd)
